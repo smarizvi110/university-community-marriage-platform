@@ -12,5 +12,3 @@ This project aims to connect Shi'a students at our university with potential spo
 Each repository is independent, allowing for flexibility in development and deployment:
 - **Backend**: Developed in Rust with Axum and SQLx.
 - **Legal Documents**: Essential policies for user data, conduct, and legal compliance.
-
-Check each repository for specific setup instructions and contributing guidelines.
